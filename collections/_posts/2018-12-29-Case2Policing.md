@@ -1,5 +1,5 @@
 ---
-title: "Case #2: Policing\"
+title: "Case #2: Policing"
 date: 2018-12-29T10:24:47+10:00
 layout: post
 authors: ["Sage Kirk", "Mike\ Young"]
