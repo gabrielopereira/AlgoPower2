@@ -28,14 +28,6 @@
 
     <p class="text-base font-light text-gray-600 mb-4">{{ post.description }}</p>
 
-    {% if post.categories %}
-      <div class="mb-2">
-        {% for category in post.categories %}
-          {% include category-badge.html %}
-        {% endfor %}
-      </div>
-    {% endif %}
-
 
   </div>
 </div>
