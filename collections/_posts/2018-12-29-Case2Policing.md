@@ -1,5 +1,5 @@
 ---
-title: "Case #2: Policing"
+title: "2. What Does the UK Police Do With Algorithms?"
 date: 2018-12-29T10:24:47+10:00
 layout: post
 authors: ["Sage Kirk", "Mike\ Young"]
