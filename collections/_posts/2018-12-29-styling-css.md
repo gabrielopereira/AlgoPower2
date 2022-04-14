@@ -2,7 +2,6 @@
 layout: post
 title: "3. Is Traffic Management The New Banal Surveillance?"
 date: 2018-12-29T10:26:40+10:00
-authors: ["Mike Vance"]
 categories: ["Development", "Javascript"]
 description: Learn how to use Markdown to write blog posts. Understand front-matter and how it is used in templates.
 thumbnail: "https://algopowertest.netlify.app/assets/images/traffic.png"
